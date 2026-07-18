@@ -14,9 +14,11 @@ I am fortunate to be advised by Assoc. Prof. Deqing Yang of DICS Lab from School
 Education
 ======
 Fudan University | Master of Science in Statistics
+
 2026-2029(expected)
 
 Fudan University | Bachelor of Engineering in Artificial Intelligence
+
 2022-2026
 
 
